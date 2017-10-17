@@ -1,4 +1,4 @@
-# GinaVisnanskyINFM600 October 17, 2017
+# GinaVisnansky INFM600 October 17, 2017
 ### SQL Queries in Quarry
 
 #### 1. Pages and Categories
@@ -32,3 +32,6 @@ User's page https://quarry.wmflabs.org/SoWhy
 6. https://quarry.wmflabs.org/query/21063
 
 ###### Over the last two months, SoWhy ran 45 queries with the majority of them focusing on articles marked for deletion. The user ran queries to find the articles, the users who marked them, why they marked them based on revision comments, and when the articles were last revised. Searches involved the page, revision and logging tables. It's possible that this user was working in a collaborative effort to tag articles or find articles that have been tagged as potentials for deletion.
+
+
+###### Word Count: 337
