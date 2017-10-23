@@ -1,5 +1,5 @@
 # Gina Visnansky INFM 600 
-### PBJ Process Document
+### PBJ Process Document October 24, 2017
 
 1. Gather supplies
    1. Get a plate from the cupboard 
